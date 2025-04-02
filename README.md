@@ -1,1 +1,1 @@
-# Finance-Management-Java
+# Finance Management System - Spending Tracker
