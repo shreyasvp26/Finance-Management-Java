@@ -1,6 +1,6 @@
-# 💰 Spending Tracker
+# 💰 Finance Management (Java)
 
-> **A simple, command-line-based expense tracker to log and analyze your spending habits efficiently.**
+> **A simple, command-line-based finance management system to track and analyze your expenses efficiently.**
 
 ---
 
@@ -28,8 +28,8 @@
 
 #### 1️⃣ Clone the repository:
 ```sh
- git clone https://github.com/yourusername/spending-tracker.git
- cd spending-tracker
+ git clone https://github.com/shreyasvp26/Finance-Management-Java.git
+ cd Finance-Management-Java
 ```
 #### 2️⃣ Compile the Java program:
 ```sh
@@ -57,7 +57,7 @@
 🔸 **Graphical UI (JavaFX)** – Replace CLI with an interactive UI.  
 🔸 **Smart Budgeting & AI Insights** – Get expense predictions & savings tips.  
 🔸 **Multi-user Profiles** – Separate expense logs for different users.  
-🔸 **Mobile App Support** – Bring Spending Tracker to Android & iOS!  
+🔸 **Mobile App Support** – Bring Finance Management to Android & iOS!  
 
 ---
 
@@ -74,7 +74,7 @@ Want to improve this project? Follow these steps:
 
 ## 📩 Contact
 
-📧 For any questions or suggestions, reach out via GitHub or email at `your-email@example.com`.
+📧 For any questions or suggestions, reach out via GitHub or email at `shreyasvp2605@gmail.com`.
 
 ---
 
